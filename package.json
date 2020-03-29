@@ -1,7 +1,7 @@
 {
-  "name": "bulletproof-nodejs",
+  "name": "learning-rest",
   "version": "1.0.0",
-  "description": "Bulletproof node.js",
+  "description": "Learning Rest",
   "main": "src/app.ts",
   "scripts": {
     "build": "tsc",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/santiq/bulletproof-nodejs.git"
+    "url": "git+https://github.com/Chullian/learning-node.git"
   },
   "keywords": [
     "boilerplay",
@@ -28,7 +28,7 @@
     "node",
     "express"
   ],
-  "author": "Santiago Quinteros",
+  "author": "Chullian",
   "license": "ISC",
   "dependencies": {
     "agenda": "^2.0.2",
@@ -75,7 +75,7 @@
     "typescript": "^3.1.3"
   },
   "bugs": {
-    "url": "https://github.com/santiq/bulletproof-nodejs/issues"
+    "url": "https://github.com/Chullian/learning-node/issues"
   },
-  "homepage": "https://github.com/santiq/bulletproof-nodejs#readme"
+  "homepage": "https://github.com/Chullian/learning-node#readme"
 }
